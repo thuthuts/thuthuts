@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=thuthuts&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="thuthuts's Most Used Languages" />
+</div>
+
+<hr>
