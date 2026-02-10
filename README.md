@@ -40,4 +40,5 @@ Hallucination detection and generation using Llama 3, Gemma, GPT-3.5/4 + majorit
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thuthuts&layout=donut)](https://github.com/thuthuts/github-readme-stats)
